@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheFoodanese
+- 👋 Hi, I’m Malaz!
 - 👀 I’m interested in CODING, Science, Medicine, Food :)
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on any beginner-friendly projects
